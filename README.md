@@ -1,1 +1,2 @@
-# Image-to-Text-OCR-Web-App-Real_V-2
+# SDB-RND
+This reopository is created for R&amp;D related issues

@@ -1,0 +1,8 @@
+# Ignore sensitive credential files
+credentials.json
+client_secrets.json
+mycreds.txt
+
+# Ignore Python virtual environments
+venv/
+.env
